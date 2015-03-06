@@ -365,7 +365,7 @@
 		</div>
 	</div>
 	<input class = "collapsable" type = "checkbox" id="show2">
-	<label for="show2"><div class = "leftaligned">Fall 3013</div> <div class = "rightaligned">Geometry</div></label>
+	<label for="show2"><div class = "leftaligned">Fall 2013</div> <div class = "rightaligned">Geometry</div></label>
 	<div class = "collapsebody">
 		<div class='entry'>
 			<h2>Beware The Angles</h2>
