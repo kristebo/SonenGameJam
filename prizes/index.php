@@ -13,7 +13,6 @@
 			
 			<th><strong>Intangible goods</strong></th>
 			<tr><td><a href='http://store.steampowered.com/'>Games on steam for 300,-</a></td></tr>
-			<tr><td><a href='https://store.unity3d.com/products/subscription'>12-month Unity Pro license, worth about $900</a></td></tr>
 			
 			<th><strong>Hardware</strong></th>
 			<tr><td><a href='http://arduino.cc/en/Main/ArduinoStarterKit'>Arduino Starter Kit</a></td></tr>
