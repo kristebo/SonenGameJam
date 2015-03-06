@@ -37,6 +37,6 @@
 	
 	<h2>Pizza, coffee & other foods</h2>
 	<p>Free pizza will be served Sunday afternoon. Please inform us beforehand if you've got any specific dietary needs.</p>
-	<p>Free coffee will of course be available at all times.</p>
+	<p>Free coffee and tea will of course be available at all times.</p>
 </div>
 <?php include_once("common/footer.html"); ?>
