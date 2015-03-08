@@ -1,6 +1,6 @@
 <?php include_once("../common/headermenu.html"); ?>
 <div id='body' style ='background-color: #f49896;overflow: hidden;'>
-	<input class = "collapsable" type = "checkbox" id="show4">
+	<input class = "collapsable" type = "checkbox" id="show4" checked>
 	<label for="show4"><div class = "leftaligned">Fall 2014</div> <div class = "rightaligned">Limit</div></label>
 	<div class = "collapsebody">
 		<div class='entry'>
@@ -533,7 +533,7 @@
 	<label for="show1"><div class = "leftaligned">Spring 2013</div> <div class = "rightaligned">Escape</div></label>
 	<div class = "collapsebody">
 		<div class='entry'>
-			<h2>Bob in Chains</h2>
+			<h2>Bob in Chains
 			<img class='medal' src='icons/silver-medal.png' title='2nd place' /></h2>
 			<div class='screenshot'><a href='screenshots/bob-in-chains.png'><img src='screenshots/thumbs/bob-in-chains.png' /></a></div>
 			<p>by <strong>Fat Pixie</strong> </p>

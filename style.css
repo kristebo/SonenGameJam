@@ -195,12 +195,12 @@ td.timestamp
 	text-align: left;
 	border-radius: 1em;
 	padding: 2em;
-	min-height: 50em;
+	min-height: 25em;
 }
 
 .entry
 {
-	padding-bottom: 8em;
+	padding-bottom: 4em;
 }
 
 a.download-link
@@ -266,14 +266,14 @@ img.medal
 	height: 1em;
 	padding-top: 0.3em;
 	padding-bottom: 0.5em;
-	border-radius: 30px;
+	border-radius: 20px;
 	font-size: 1.8em;
 	font-weight: bold;
 	color: #000;
 	text-decoration: none;
 	background: #e17471;
 	float: left;
-	margin-bottom: 25px;
+	margin-bottom: 15px;
 
 }
 .collapsable + label:hover {
