@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php include_once("../common/headermenu.html"); ?>
 <div id='body' style ='background-color: #f49896;overflow: hidden;'>
 	<input class = "collapsable" type = "checkbox" id="show4" checked>
@@ -27,7 +28,7 @@
 		<div class='entry'>
 			<h2>Bus driver</h2>
 			<div class='screenshot'><a href='screenshots/bus-driver.png'><img src='screenshots/thumbs/bus-driver.png' /></a></div>
-			<p>by <strong>asdfasdf (this game did not compete)</strong> </p>
+			<p>by <strong>asdfasdf</strong> (this game did not compete)</p>
 			<p><span style='font-size: 0.75em;'>(Julian Nymark)</span></p>
 			<p>Framework: <a href='http://love2d.org/'>LÖVE</a></p>
 			<p>
@@ -354,7 +355,7 @@
 		<div class='entry'>
 			<h2>Typing Of The LÖVE</h2>
 			<div class='screenshot'><a href='screenshots/typing-of-the-love.png'><img src='screenshots/thumbs/typing-of-the-love.png' /></a></div>
-			<p>by <strong>Faeces Fairy</strong> </p>
+			<p>by <strong>Faeces Fairy</strong> (this game did not compete)</p>
 			<p><span style='font-size: 0.75em;'>(Jonathan Ringstad, Julian Nymark, Preben Ø. Aas, and Srod Karim)</span></p>
 			<p>Framework: <a href='http://love2d.org/'>LÖVE</a></p>
 			<p>
@@ -509,7 +510,7 @@
 		<div class='entry'>
 			<h2>Snake in Space</h2>
 			<div class='screenshot'><a href='screenshots/snake-in-space.png'><img src='screenshots/thumbs/snake-in-space.png' /></a></div>
-			<p>by <strong>Team Beam</strong> </p>
+			<p>by <strong>Team Beam</strong> (this game did not compete)</p>
 			<p><span style='font-size: 0.75em;'>(Kyrre Havik Eriksen)</span></p>
 			<p>Framework: <a href='http://love2d.org/'>LÖVE</a></p>
 			<p>
@@ -579,7 +580,7 @@
 		<div class='entry'>
 			<h2>Pig Run</h2>
 			<div class='screenshot'><a href='screenshots/pig-run.png'><img src='screenshots/thumbs/pig-run.png' /></a></div>
-			<p>by <strong>Game Jam organizers</strong> </p>
+			<p>by <strong>Game Jam organizers</strong> (this game did not compete)</p>
 			<p><span style='font-size: 0.75em;'>(Simen Heggestøyl)</span></p>
 			<p>Framework: <a href='http://love2d.org/'>LÖVE</a></p>
 			<p>
