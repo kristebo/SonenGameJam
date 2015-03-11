@@ -4,7 +4,7 @@ body
 	font-family: Helvetica, sans;
 	text-align: center;
 	background-color: #000;
-	background: linear-gradient(to bottom, #0C0D2C, #000000);
+	background: linear-gradient(to bottom,  #073148, #000000); /*#0C0D2C*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover
