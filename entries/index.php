@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php include_once("../common/headermenu.html"); ?>
 <div id='body' style ='background-color: #f49896;overflow: hidden;'>
-	<input class = "collapsable" type = "checkbox" id="show4" checked>
+	<input class = "collapsable" type = "checkbox" id="show4">
 	<label for="show4"><div class = "leftaligned">Fall 2014</div> <div class = "rightaligned">Limit</div></label>
 	<div class = "collapsebody">
 		<div class='entry'>
