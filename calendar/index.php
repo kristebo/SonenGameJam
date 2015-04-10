@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <?php include_once("../common/headermenu.html"); ?>
 <div id='body' style='background-color: #a7e1ed;'>
-	<p><strong>Timetable not yet finalized.</strong></p>
-	<p>All times are subject to change.</p>
+	<p>All times are CET</p>
 	<table id='timetable'>
 		
 		<th colspan='2'><strong>Friday 10th</strong></th>

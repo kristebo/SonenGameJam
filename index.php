@@ -17,8 +17,9 @@
 	<p>Guest accounts can be provided for those of you who aren't associated with UiO, allowing you to use the machines at Ole-Johan Dahls hus during the event.</p>
 	<p>If you need access to the building during the event, please call one of us:</p>
 	<ul>
-	  <li>Srod (99 42 48 22)</li>
 	  <li>Jonny (45 88 50 35)</li>
+	  <li>Srod (99 42 48 22)</li>
+	  <li>Julian (93 04 36 33)</li>
 	</ul>
 	<h2>Rules</h3>
 	<ul>

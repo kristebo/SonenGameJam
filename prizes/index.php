@@ -15,7 +15,7 @@
 
 
 			<th><strong>Intangible goods</strong></th>
-			<tr><td><a href='http://store.steampowered.com/'>Games on steam for 300,-</a></td></tr>
+			<tr><td><a href='http://store.steampowered.com/'>Games on steam for NOK 300</a></td></tr>
 			
 			<th><strong>Hardware</strong></th>
 			<tr><td><a href='http://arduino.cc/en/Main/ArduinoStarterKit'>Arduino Starter Kit</a></td></tr>
@@ -26,7 +26,6 @@
 			<tr><td><a href='https://www.thinkgeek.com/product/60b6/'>Airzooka Air gun</a></td></tr>
 			<tr><td><a href='https://www.thinkgeek.com/product/dd8a/'>"Don't Panic" towel</a></td></tr>
 			<tr><td><a href='https://www.thinkgeek.com/product/eafc/'>Gyroscope</a></td></tr>
-			<tr><td><a href="http://www.thinkgeek.com/product/ef0b/">Useless Machine</a></td></tr>
 			<tr><td><a href="http://www.thinkgeek.com/product/1d75/">Flappy Bird Plush</a></td></tr>
 			<tr><td><a href="http://www.thinkgeek.com/product/ee3c/">Lego Tea Cup</a></td></tr>
 		</table>
