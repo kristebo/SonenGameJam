@@ -5,6 +5,12 @@
 	<h1>About</h1>
 	<p>Make a game in 48 hours! Listen to great talks! Eat pizza! The purpose of Sonen Game Jam is to gather aspiring game makers, rookies and veterans alike. Everyone is eligible to enter, and the entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>April 10th!</strong></p>
 	
+	<h2>Update</h2>
+	<p>The GameJam is now over for Spring 2015, and we had yet again great success with our event!
+	<br>We want to thank everyone for attending, and hope you all had a great time.
+	<br>
+	<br>And for those who are curious, we will be uploading all submitted games over the next few days, and they should hopefully all be up on the entries page by the end of the week!</p>
+
 	<h2>Date</h2>
 	<p>The weekend on the <strong>10th - 12th of April</strong> (week 15), from 17:00 on Friday (theme announcement) to 17:00 on Sunday (deadline)</p>
 	
@@ -21,7 +27,7 @@
 	  <li>Srod (99 42 48 22)</li>
 	  <li>Julian (93 04 36 33)</li>
 	</ul>
-	<h2>Rules</h3>
+	<h2>Rules</h2>
 	<ul>
 	  <li>One game submission per team.</li>
 	  <li>There is no restriction on the number of team members.</li>
@@ -32,7 +38,7 @@
 	  <li>Source code and a screenshot must be included in the final delivery.</li>
 	</ul>
 
-	<h2>Matchmaking</h3>
+	<h2>Matchmaking</h2>
 	<p>Still missing that special someone on your team that can make you feel all warm and fuzzy inside (or at least turn your pixel-poop into something you might dare to call "art" when nobody is listening?).</p>
 	<p>Show up at 14:00 on Friday the 10th, or chip an email to <a href='mailto:jwringstad@gmail.com'>jwringstad@gmail.com </a></p>
 	
