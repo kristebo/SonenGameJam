@@ -1,0 +1,1 @@
+mogrify -resize 240x160 -path thumbs *.png

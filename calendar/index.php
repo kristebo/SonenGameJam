@@ -11,21 +11,15 @@
 		<tr><td class='timestamp'>16:30</td><td>Talk: Introduction to GIT: If it's not in source control, it doesn't exist</td></tr>
 		<tr><td class='timestamp'>17:00</td><td>Theme announcement & starting shot</td></tr>
 		<tr><td class='timestamp'>17:30</td><td>Talk: Introduction to Processing: 2D graphics with java</td></tr>
-<!-- 		<tr><td class='timestamp'>18:00</td><td>Talk: Introduction to making games and UIs with Qt Quick</td></tr>
+ 		<!--<tr><td class='timestamp'>18:00</td><td>Talk: Introduction to making games and UIs with Qt Quick</td></tr>
 		<tr><td class='timestamp'>24:00</td><td>Time to go home</td></tr> -->
 		
 		<th colspan='2'><strong>Saturday 21th</strong></th>
 		<!-- <tr><td class='timestamp'>10:00</td><td>Doors open</td></tr> -->
 		<tr><td class='timestamp'>14:30</td><td>Talk: A quick guide to pixelart: gotchas and techniques to rapidly improve you art</td></tr>
-		<tr><td class = 'timestamp'>15:00</td><td>Talk: A guide 
-to Juice: How to quickly make your games awesome</td>
-		<tr><td class='timestamp'>15:30</td><td>Talk: 
-Introduction to shaders: fancy effects for your game</td></tr>
-		<tr><td class = 'timestamp'>16:30</td><td>Talk: Making 
-music for games</td></tr>
-		<!-- <tr><td class='timestamp'>15:00</td><td>Talk: 
-Introduction 
-to 2D animation: making a walkcycle (Unconfirmed)</td></tr>
+		<tr><td class = 'timestamp'>15:00</td><td>Talk: A guite to Juice: How to quickly improve the satisfaction the game gives you</td>
+		<tr><td class='timestamp'>15:30</td><td>Talk: Introduction to shaders -- fancy effects for your game</td></tr>
+		<!-- <tr><td class='timestamp'>15:00</td><td>Talk: Introduction to 2D animation: making a walkcycle (Unconfirmed)</td></tr>
 		<tr><td class='timestamp'>15:30</td><td>Talk: Introduction to game physics</td></tr>
 		<tr><td class='timestamp'>16:00</td><td>Talk: Music for your games</td></tr>
 		<tr><td class='timestamp'>24:00</td><td>Time to go home</td></tr> -->
