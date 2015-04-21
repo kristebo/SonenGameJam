@@ -9,7 +9,7 @@
 	<p>The GameJam is now over for Spring 2015, and we had yet again great success with our event!
 	<br>We want to thank everyone for attending, and hope you all had a great time.
 	<br>
-	<br>And for those who are curious, we will be uploading all submitted games over the next few days, and they should hopefully all be up on the entries page by the end of the week!</p>
+	<br><strong>The games for this semester have finally been uploaded, and can be found on the entries tab!</strong><br>We might add more links over the course of the next week; be sure to notify us if something is wrong or missing.</p>
 
 	<h2>Date</h2>
 	<p>The weekend on the <strong>10th - 12th of April</strong> (week 15), from 17:00 on Friday (theme announcement) to 17:00 on Sunday (deadline)</p>
