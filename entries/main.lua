@@ -116,7 +116,10 @@ entries = {
 		screenshot = "float.png",
 		framework = "Unity",
 		links = {
-			github = "https://github.com/morbo1993/HalfbyteSonenGameJam2015"
+			github = "https://github.com/morbo1993/HalfbyteSonenGameJam2015",
+			exe = s .. "float-win.zip",
+			linux = s .. "float-lin.zip",
+			mac = s .. "float-mac.zip"
 		},
 		place = 3
 	},
@@ -137,7 +140,8 @@ entries = {
 		screenshot = "float-island.png",
 		framework = "Unity",
 		links = {
-			github = "https://github.com/benjamso/gamejam"
+			github = "https://github.com/benjamso/gamejam",
+			exe = s .."floatingisland.zip"
 		}
 	},
 	{
@@ -184,7 +188,10 @@ entries = {
 		screenshot = "OuOooj.png",
 		framework = "Processing",
 		links = {
-			github = "https://github.com/PaulMag/OuOooj"
+			github = "https://github.com/PaulMag/OuOooj",
+			exe = s .. "OuOooj-win.zip",
+			linux = s .. "OuOooj-lin.zip",
+			mac = s .. "OuOooj-mac.zip"
 		}
 	},
 	{
