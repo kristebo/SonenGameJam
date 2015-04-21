@@ -36,6 +36,8 @@ function love.load()
 			f:write("'https://nodejs.org/'>node.js")
 		elseif e.framework == "gamemaker" then
 			f:write("'https://www.yoyogames.com/studio'>GameMaker")
+		elseif e.framework == "blender" then
+			f:write("'http://www.blender.org/'>Blender")
 		end
 		f:write("</a></p>\n")
 		f:write("\t<p>\n")
