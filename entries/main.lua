@@ -164,6 +164,7 @@ entries = {
 		screenshot = "floaty-floyd.png",
 		framework = "gamemaker",
 		links = {
+			exe = s .. "FloatyFloyd.exe",
 			gamemaker = s .. "FloatyFloyd.gmx.zip"
 		}
 	},
