@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <?php include_once("../common/headermenu.html"); ?>
 <div id='body' style='background-color: #a7e1ed;'>
+
+	<p><strong>Note: All times below are from the previous GameJam, Spring 2015. The timetable for the Fall GameJam is still under development!</strong></p>
+
 	<p>All times are CET</p>
 	<table id='timetable'>
 		

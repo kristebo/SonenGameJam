@@ -3,16 +3,17 @@
 <div id="body" style = "background-color: #ffb868;">
 	<!--body content goes here -->
 	<h1>About</h1>
-	<p>Make a game in 48 hours! Listen to great talks! Eat pizza! The purpose of Sonen Game Jam is to gather aspiring game makers, rookies and veterans alike. Everyone is eligible to enter, and the entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>April 10th!</strong></p>
-	
-	<h2>Update</h2>
+	<p>Make a game in 48 hours! Listen to great talks! Eat pizza! The purpose of Sonen GameJam is to gather aspiring game makers, rookies and veterans alike. Everyone is eligible to enter, and the entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>October 23rd!</strong></p>
+
+	<!--<h2>Update</h2>
 	<p>The GameJam is now over for Spring 2015, and we had yet again great success with our event!
 	<br>We want to thank everyone for attending, and hope you all had a great time.
 	<br>
-	<br><strong>The games for this semester have finally been uploaded, and can be found on the entries tab!</strong><br>We might add more links over the course of the next week; be sure to notify us if something is wrong or missing.</p>
-
+	<br><strong>The games for this semester have finally been uploaded, and can be found on the entries tab!</strong><br>We might add more links over the course of the next week; be sure to notify us if something is wrong or missing.</p> -->
 	<h2>Date</h2>
-	<p>The weekend on the <strong>10th - 12th of April</strong> (week 15), from 17:00 on Friday (theme announcement) to 17:00 on Sunday (deadline)</p>
+	<p>The weekend on the <strong>23rd - 25th of October</strong> (week 43).</p>
+	<p>Theme announcement is at 17:00 on Friday, and the delivery deadline is at 17:00 on Sunday</p>
+	<p>However, registrations are open from 14:00, and useful talks will also be held before the theme announcement. Check the <a href='/Calendar/'>Calendar</a> page for a full overview.</p>
 	
 	<h2>Livestream</h2>
 	<p>Check out our livestream at <a href='http://www.twitch.tv/sonengamejam'>Twitch.tv</a>!</p>
@@ -40,7 +41,7 @@
 
 	<h2>Matchmaking</h2>
 	<p>Still missing that special someone on your team that can make you feel all warm and fuzzy inside (or at least turn your pixel-poop into something you might dare to call "art" when nobody is listening?).</p>
-	<p>Show up at 14:00 on Friday the 10th, or chip an email to <a href='mailto:jwringstad@gmail.com'>jwringstad@gmail.com </a></p>
+	<p>Show up at 14:00 on Friday the 23rd, or chip an email to <a href='mailto:jwringstad@gmail.com'>jwringstad@gmail.com</a></p>
 	
 	<h2>Pizza, coffee & other foods</h2>
 	<p>Free pizza will be served Sunday afternoon. Please inform us beforehand if you've got any specific dietary needs.</p>
