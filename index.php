@@ -13,7 +13,7 @@
 	<h2>Date</h2>
 	<p>The weekend on the <strong>23rd - 25th of October</strong> (week 43).</p>
 	<p>Theme announcement is at 17:00 on Friday, and the delivery deadline is at 17:00 on Sunday</p>
-	<p>However, registrations are open from 14:00, and useful talks will also be held before the theme announcement. Check the <a href='/Calendar/'>Calendar</a> page for a full overview.</p>
+	<p>However, registrations are open from 14:00, and useful talks will also be held before the theme announcement. Check the <a href='/calendar/'>Calendar</a> page for a full overview.</p>
 	
 	<h2>Livestream</h2>
 	<p>Check out our livestream at <a href='http://www.twitch.tv/sonengamejam'>Twitch.tv</a>!</p>
