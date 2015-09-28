@@ -9,8 +9,8 @@
 			<tr><td><a href='http://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812/'>Land of Lisp</a></td></tr>
 			<tr><td><a href='http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/'>Real-Time Rendering</a></td></tr>
 			<tr><td><a href='http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628/'>The C Programming Language</a></td></tr>
-			<!-- <tr><td><a href='http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/'>The Pragmatic Programmer</a></td></tr> -->
-			<!-- <tr><td><a href="http://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X/">The Animators Survival Kit</a></td></tr> -->
+			<tr><td><a href='http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/'>The Pragmatic Programmer</a></td></tr>
+			<tr><td><a href="http://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X/">The Animators Survival Kit</a></td></tr>
 			<tr><td><a href="http://www.amazon.com/Drawing-Basics-Video-Game-Art/dp/0823098478/">Drawing Basics and Video Game Art</a></td></tr>
 
 
