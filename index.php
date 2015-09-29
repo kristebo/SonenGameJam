@@ -15,9 +15,6 @@
 	<p>Theme announcement is at 17:00 on Friday, and the delivery deadline is at 17:00 on Sunday</p>
 	<p>However, registrations are open from 14:00, and useful talks will also be held before the theme announcement. Check the <a href='/calendar/'>Calendar</a> page for a full overview.</p>
 	
-	<h2>Livestream</h2>
-	<p>Check out our livestream at <a href='http://www.twitch.tv/sonengamejam'>Twitch.tv</a>!</p>
-	
 	<h2>Venue</h2>
 	<p>Sonen Game Jam will take place at room <strong>Ada 3407</strong>, also known as <strong>Sonen</strong>, located on the <strong>third floor of Ole-Johan Dahls hus</strong>, close to Forskningsparken station. <a href='http://www.openstreetmap.org/way/35201513#map=17/59.94351/10.71872'>(map)</a></p>
 	<p>If you already have a UiO student card, and need extended access to Ole-Johan Dahls hus during the weekend, please send us your full name and student number beforehand.</p>
@@ -28,6 +25,10 @@
 	  <li>Srod (99 42 48 22)</li>
 	  <li>Julian (93 04 36 33)</li>
 	</ul>
+	
+	<h2>Livestream</h2>
+	<p>Check out our livestream at <a href='http://www.twitch.tv/sonengamejam'>Twitch.tv</a>!</p>
+	
 	<h2>Rules</h2>
 	<ul>
 	  <li>One game submission per team.</li>

@@ -9,7 +9,7 @@
 		
 		<th colspan='2'><strong>Friday 23th</strong></th>
 		<tr><td class='timestamp'>14:00</td><td>Registrations open & matchmaking</td></tr>
-		<tr><td class='timestamp'>14:30</td><td>Talk: Introduction to Unity: Easy tool to making 3D games</td></tr>
+		<tr><td class='timestamp'>14:30</td><td>Talk: Introduction to Unity: popular framework for making 3D games</td></tr>
 		<!--<tr><td class='timestamp'>14:30</td><td>Talk: Introduction to LibGDX: making crossplatform games with java</td></tr> -->
 		<tr><td class='timestamp'>15:30</td><td>Talk: Introduction to LÖVE: rapid 2D game development with lua</td></tr>
 		<tr><td class='timestamp'>16:30</td><td>Talk: Introduction to GIT: If it's not in source control, it doesn't exist</td></tr>
