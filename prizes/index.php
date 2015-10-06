@@ -12,7 +12,7 @@
 			<tr><td><a href='http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/'>The Pragmatic Programmer</a></td></tr>
 			<tr><td><a href="http://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X/">The Animators Survival Kit</a></td></tr>
 			<tr><td><a href="http://www.amazon.com/Drawing-Basics-Video-Game-Art/dp/0823098478/">Drawing Basics and Video Game Art</a></td></tr>
-
+			<tr><td><a href="http://www.amazon.com/Introduction-Game-Design-Prototyping-Development/dp/0321933168 ">Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C#</a></td></tr>
 
 			<th><strong>Intangible goods</strong></th>
 			<tr><td><a href='http://store.steampowered.com/'>Games on steam for NOK 300</a></td></tr>
@@ -20,8 +20,9 @@
 			<th><strong>Hardware</strong></th>
 			<tr><td><a href='http://arduino.cc/en/Main/ArduinoStarterKit'>Arduino Starter Kit</a></td></tr>
 			<tr><td><a href='http://www.raspberrypi.org/'>Raspberry Pi</a></td></tr>
-			<!-- <tr><td><a href="http://www.huion-tablet.com/product/product.php?sku=1013">Huion H610 Pro Drawing Pen Tablet</a></td></tr> -->
-			
+			<tr><td><a href='https://www.komplett.no/product/801305/datautstyr/minnepenn-usb/kingston-datatraveler-g4-64gb#'>Kingston 64GB USB stick</a></td></tr>
+			<tr><td><a href="http://www.huiontablet.com/huion-h610pro.html">Huion H610 Pro Drawing Pen Tablet</a></td></tr>
+
 			<th><strong>Toys</strong></th>
 			<tr><td><a href='https://www.thinkgeek.com/product/60b6/'>Airzooka Air gun</a></td></tr>
 			<tr><td><a href='https://www.thinkgeek.com/product/dd8a/'>"Don't Panic" towel</a></td></tr>
