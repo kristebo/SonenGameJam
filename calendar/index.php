@@ -2,7 +2,7 @@
 <?php include_once("../common/headermenu.html"); ?>
 <div id='body' style='background-color: #a7e1ed;'>
 
-	<p><strong>Note: The timetable for the Fall GameJam is still under development! All times are subject to change</strong></p>
+	<!-- <p><strong>Note: The timetable for the Fall GameJam is still under development! All times are subject to change</strong></p> -->
 
 	<p>All times are CET</p>
 	<table id='timetable'>
