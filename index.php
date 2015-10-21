@@ -21,9 +21,13 @@
 	<p>Guest accounts can be provided for those of you who aren't associated with UiO, allowing you to use the machines at Ole-Johan Dahls hus during the event.</p>
 	<p>If you need access to the building during the event, please call one of us:</p>
 	<ul>
-	  <li>Jonny (45 88 50 35)</li>
-	  <li>Srod (99 42 48 22)</li>
-	  <li>Julian (93 04 36 33)</li>
+		<?php
+		$a=array("Jonny (45 88 50 35)","Srod (99 42 48 22)","Julian (93 04 36 33)");
+		shuffle($a);
+		echo "<li>".$a[0]."</li>";
+		echo "<li>".$a[1]."</li>";
+		echo "<li>".$a[2]."</li>";
+		?>
 	</ul>
 	
 	<h2>Livestream</h2>
