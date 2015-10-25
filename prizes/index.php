@@ -19,7 +19,7 @@
 			
 			<th><strong>Hardware</strong></th>
 			<tr><td><a href='http://arduino.cc/en/Main/ArduinoStarterKit'>Arduino Starter Kit</a></td></tr>
-			<tr><td><a href='http://www.raspberrypi.org/'>Raspberry Pi</a></td></tr>
+			<!-- <tr><td><a href='http://www.raspberrypi.org/'>Raspberry Pi</a></td></tr> -->
 			<tr><td><a href='https://www.komplett.no/product/801305/datautstyr/minnepenn-usb/kingston-datatraveler-g4-64gb#'>Kingston 64GB USB stick</a></td></tr>
 			<tr><td><a href="http://www.huiontablet.com/huion-h610pro.html">Huion H610 Pro Drawing Pen Tablet</a></td></tr>
 

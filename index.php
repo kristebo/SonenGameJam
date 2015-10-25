@@ -8,7 +8,9 @@
 	<p>The theme for this semester's event is <strong>ABANDONED</strong></p>
 
 	<p>Good luck everyone!</p>
-
+	<h2>Register</h2>
+	<p>Make sure that everyone on the theme is registered!</br>Without registration, you are not elligible to win, and also we won't be able to order enough pizza.</p>
+<p>To register, follow this link: <a href="http://tinyurl.com/sonengamejamregistrations">http://tinyurl.com/sonengamejamregistrations</a></p>
 	<!--<h2>Update</h2>
 	<p>The GameJam is now over for Spring 2015, and we had yet again great success with our event!
 	<br>We want to thank everyone for attending, and hope you all had a great time.
