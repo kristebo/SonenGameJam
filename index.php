@@ -4,18 +4,19 @@
 	<!--body content goes here -->
 	<h1>About</h1>
 	<p>Make a game in 48 hours! Listen to great talks! Eat pizza! The purpose of Sonen GameJam is to gather aspiring game developers(including programmers, artists, designers and composers), rookies and veterans alike. Everyone is eligible to enter, on their own or in a team, and the entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>October 23rd!</strong></p>
-	<h2>Theme</h2>
+	<!--<h2>Theme</h2>
 	<p>The theme for this semester's event is <strong>ABANDONED</strong></p>
 
-	<p>Good luck everyone!</p>
-	<h2>Register</h2>
+	<p>Good luck everyone!</p>-->
+	<!--<h2>Register</h2>
 	<p>Make sure that everyone on the theme is registered!</br>Without registration, you are not elligible to win, and also we won't be able to order enough pizza.</p>
-<p>To register, follow this link: <a href="http://tinyurl.com/sonengamejamregistrations">http://tinyurl.com/sonengamejamregistrations</a></p>
-	<!--<h2>Update</h2>
-	<p>The GameJam is now over for Spring 2015, and we had yet again great success with our event!
+<p>To register, follow this link: <a href="http://tinyurl.com/sonengamejamregistrations">http://tinyurl.com/sonengamejamregistrations</a></p>-->
+	<h2>Update</h2>
+	<p>The GameJam is now over for Fall 2015, and once again the event was a great success!
 	<br>We want to thank everyone for attending, and hope you all had a great time.
 	<br>
-	<br><strong>The games for this semester have finally been uploaded, and can be found on the entries tab!</strong><br>We might add more links over the course of the next week; be sure to notify us if something is wrong or missing.</p> -->
+	<br>We are currently in the process of uploading the games to our server, and putting them on the entries tab. This can take a few days.
+	<!--<br><strong>The games for this semester have finally been uploaded, and can be found on the entries tab!</strong><br>We might add more links over the course of the next week; be sure to notify us if something is wrong or missing.</p> -->
 	<h2>Date</h2>
 	<p>The weekend on the <strong>23rd - 25th of October</strong> (week 43).</p>
 	<p>Theme announcement is at 17:00 on Friday, and the delivery deadline is at 17:00 on Sunday</p>
