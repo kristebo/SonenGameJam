@@ -3,7 +3,7 @@
 <div id="body" style = "background-color: #ffb868;">
 	<!--body content goes here -->
 	<h1>About</h1>
-	<p>Make a game in 48 hours! Listen to great talks! Eat pizza! The purpose of Sonen GameJam is to gather aspiring game developers(including programmers, artists, designers and composers), rookies and veterans alike. Everyone is eligible to enter, on their own or in a team, and the entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>October 23rd!</strong></p>
+	<p>Make a game in 48 hours! Listen to great talks! Eat pizza! The purpose of Sonen GameJam is to gather aspiring game developers (programmers, artists, designers, composers, ...), rookies and veterans alike. Everyone is eligible to enter -- on their own or in a team -- and entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>October 23rd!</strong></p>
 	<!--<h2>Theme</h2>
 	<p>The theme for this semester's event is <strong>ABANDONED</strong></p>
 
