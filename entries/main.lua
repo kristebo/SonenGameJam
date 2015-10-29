@@ -51,7 +51,7 @@ function love.load()
 			f:write("'http://doc.qt.io/qt-5/qtquick-index.html'>Qt Quick")
 		elseif e.framework == "Canvas" then
 			f:write("'https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API'>Canvas")
-		elseif e:framework == "Construct 2" then
+		elseif e.framework == "Construct 2" then
 			f:write("'https://www.scirra.com/construct2'>Construct 2")
 		end
 
