@@ -12,10 +12,11 @@
 	<p>Make sure that everyone on the theme is registered!</br>Without registration, you are not elligible to win, and also we won't be able to order enough pizza.</p>
 <p>To register, follow this link: <a href="http://tinyurl.com/sonengamejamregistrations">http://tinyurl.com/sonengamejamregistrations</a></p>-->
 	<h2>Update</h2>
-	<p>The GameJam is now over for Fall 2015, and once again the event was a great success!
-	<br>We want to thank everyone for attending, and hope you all had a great time.
+	<p>The Fall 2015 GameJam is now over! Thanks everyone for participating, we hope you had a great time!
 	<br>
-	<br>We are currently in the process of uploading the games to our server, and putting them on the entries tab. This can take a few days.
+	<br>
+	<br>
+	<br><strong>The games for this gamejam have been uploaded, and you can now find them in the entries tab!</strong>
 	<!--<br><strong>The games for this semester have finally been uploaded, and can be found on the entries tab!</strong><br>We might add more links over the course of the next week; be sure to notify us if something is wrong or missing.</p> -->
 	<h2>Date</h2>
 	<p>The weekend on the <strong>23rd - 25th of October</strong> (week 43).</p>
