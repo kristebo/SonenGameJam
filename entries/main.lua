@@ -25,7 +25,7 @@ function love.load()
 		local internalThumbnailPath = "screenshots/" .. s .. "/thumbs/" .. internalGameName .. ".png"
 		
 		f:write("</h2>\n")
-		f:write("\t<div class = 'screenshot'><a href='screenshots/".. e.screenshot .."'><img src='screenshots/thumbs/".. e.screenshot .. "' /></a></div>\n")
+		f:write("\t<div class = 'screenshot'><a href='".. internalImagePath .."'><img src='".. internalThumbnailPath .. "' /></a></div>\n")
 		f:write("\t<p>by <strong>"..e.team .."</strong></p>\n")
 		if e.members then
 			f:write("\t<p><span style='font-size: 0.75em;'>(" .. e.members .. ")</span></p>\n")
