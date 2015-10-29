@@ -53,7 +53,8 @@ return {
 		framework = "Unity",
 		links = {
 
-		}
+		},
+		place = 2
 	},
 	{
 		team = "Las Cabras Elasticas",
@@ -62,7 +63,8 @@ return {
 		framework = "Unity",
 		links = {
 
-		}
+		},
+		place = 3
 	},
 	{
 		team = "Lite Overbeviste IT folk",
@@ -98,7 +100,8 @@ return {
 		framework = "gamemaker",
 		links = {
 
-		}
+		},
+		place = 1
 	},
 	{
 		team = "Snaklerats",

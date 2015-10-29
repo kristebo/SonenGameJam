@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <?php include_once("../common/headermenu.html"); ?>
 <div id='body' style ='background-color: #f49896;overflow: hidden;'>
+	<input class = "collapsable" type = "checkbox" id="show6">
+	<label for="show6"><div class = "leftaligned">Fall 2015</div> <div class = "rightaligned">Abandoned</div></label>
+	<div class = "collapsebody">
+		<?php include_once("sections/F2015.html"); ?>
+	</div>
 	<input class = "collapsable" type = "checkbox" id="show5">
 	<label for="show5"><div class = "leftaligned">Spring 2015</div> <div class = "rightaligned">Float</div></label>
 	<div class = "collapsebody">

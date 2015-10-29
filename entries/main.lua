@@ -1,5 +1,5 @@
 function love.load()
-	f,b = love.filesystem.newFile("S2015.html","w" )
+	f,b = love.filesystem.newFile("F2015.html","w" )
 	entries = require "tables/F2015"
 
 	for i,e in ipairs(entries) do
@@ -16,9 +16,11 @@ function love.load()
 			end
 			f:write("/>")
 		end
-		local internalGameName = string.gsub(e.game," ", "_")
+		local internalGameName = string.lower(e.game)
+		internalGameName = string.gsub(internalGameName," ", "_")
 		internalGameName = string.gsub(internalGameName,"'", "")
-		local internalTeamName = string.gsub(e.team," ", "_")
+		local internalTeamName = string.lower(e.team)
+		internalTeamName = string.gsub(internalTeamName," ", "_")
 		internalTeamName = string.gsub(internalGameName,"'","")
 		local intrnalFolderName = internalTeamName .. "-" .. internalGameName
 		local internalImagePath = "screenshots/" .. s .. "/" .. internalGameName .. ".png"
