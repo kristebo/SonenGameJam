@@ -285,7 +285,8 @@ img.medal
 
 .collapsebody{
 	float:left;
-	width:auto;
+	/* width:auto; */
+	width:544;
 }
 
 
