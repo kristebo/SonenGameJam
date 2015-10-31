@@ -1,4 +1,6 @@
 function love.load()
+	local defaultFiles = {"win","linux","osx"}
+	local defaultFilesTo = {"exe","linux","mac"}
 	f,b = love.filesystem.newFile("F2015.html","w" )
 	entries = require "tables/F2015"
 
@@ -21,8 +23,8 @@ function love.load()
 		internalGameName = string.gsub(internalGameName,"'", "")
 		local internalTeamName = string.lower(e.team)
 		internalTeamName = string.gsub(internalTeamName," ", "_")
-		internalTeamName = string.gsub(internalGameName,"'","")
-		local intrnalFolderName = internalTeamName .. "-" .. internalGameName
+		internalTeamName = string.gsub(internalTeamName,"'","")
+		local internalFolderName = "games/" .. s .. "/" .. internalTeamName .. "-" .. internalGameName .. "/"
 		local internalImagePath = "screenshots/" .. s .. "/" .. internalGameName .. ".png"
 		local internalThumbnailPath = "screenshots/" .. s .. "/thumbs/" .. internalGameName .. ".png"
 		
@@ -56,6 +58,14 @@ function love.load()
 		elseif e.framework == "Construct 2" then
 			f:write("'https://www.scirra.com/construct2'>Construct 2")
 		end
+
+		for i,v in ipairs(defaultFiles) do
+			print(internalFolderName .. v .. ".zip")
+			if love.filesystem.isFile(internalFolderName .. v .. ".zip") then
+				e.links[defaultFilesTo[i]] = internalFolderName .. v .. ".zip"
+			end
+		end
+
 
 		f:write("</a></p>\n")
 		f:write("\t<p>\n")
