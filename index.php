@@ -3,7 +3,7 @@
 <div id="body" style = "background-color: #ffb868;">
 	<!--body content goes here -->
 	<h1>About</h1>
-	<p>Make a game in 48 hours! Listen to great talks! Eat pizza! The purpose of Sonen GameJam is to gather aspiring game developers (programmers, artists, designers, composers, ...), rookies and veterans alike. Everyone is eligible to enter -- on their own or in a team -- and entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>October 23rd!</strong></p>
+	<p>Make a game in 24 hours! Listen to great talks! Eat pizza! The purpose of Sonen GameJam is to gather aspiring game developers (programmers, artists, designers, composers, ...), rookies and veterans alike. Everyone is eligible to enter -- on their own or in a team -- and entry (as well as food) is free. No prior registration is needed, all you have to do is to show up at Sonen (3rd floor, room 3407), Ole-Johan Dahls hus, <strong>October 23rd!</strong></p>
 	<!--<h2>Theme</h2>
 	<p>The theme for this semester's event is <strong>ABANDONED</strong></p>
 
@@ -12,6 +12,7 @@
 	<p>Make sure that everyone on the theme is registered!</br>Without registration, you are not elligible to win, and also we won't be able to order enough pizza.</p>
 <p>To register, follow this link: <a href="http://tinyurl.com/sonengamejamregistrations">http://tinyurl.com/sonengamejamregistrations</a></p>-->
 	<h2>Update</h2>
+	<p>We are on again. new date is 31.03.2017 - 2.04.2017. The team is now Krister Borge (Sonen), Jon Even Thorjussen (cyb) and Trude Westby (library)
 	<p>The Fall 2015 GameJam is now over! Thanks everyone for participating, we hope you had a great time!
 	<br>
 	<br>
@@ -24,7 +25,7 @@
 	<p>However, registrations are open from 14:00, and useful talks will also be held before the theme announcement. Check the <a href='/calendar/'>Calendar</a> page for a full overview.</p>
 	
 	<h2>Venue</h2>
-	<p>Sonen Game Jam will take place at room <strong>Ada 3407</strong>, also known as <strong>Sonen</strong>, located on the <strong>third floor of Ole-Johan Dahls hus</strong>, close to Forskningsparken station. <a href='http://www.openstreetmap.org/way/35201513#map=17/59.94351/10.71872'>(map)</a></p>
+	<p>Sonen Game Jam will take place at room <strong>Ada 3407</strong>, also known as <strong>Sonen</strong> and informatics library., located on the <strong>third floor of Ole-Johan Dahls hus</strong>, close to Forskningsparken station. <a href='http://www.openstreetmap.org/way/35201513#map=17/59.94351/10.71872'>(map)</a></p>
 	<p>If you already have a UiO student card, and need extended access to Ole-Johan Dahls hus during the weekend, please send us your full name and student number beforehand.</p>
 	<p>Guest accounts can be provided for those of you who aren't associated with UiO, allowing you to use the machines at Ole-Johan Dahls hus during the event.</p>
 	<p>If you need access to the building during the event, please call one of us:</p>
@@ -45,7 +46,7 @@
 	<ul>
 	  <li>One game submission per team.</li>
 	  <li>There is no restriction on the number of team members.</li>
-	  <li>Time limit: 48 hours.</li>
+	  <li>Time limit: 24 hours.</li>
 	  <li>Game must conform with the given theme.</li>
 	  <li>All programming languages allowed.</li>
 	  <li>All publicly available frameworks, libraries & assets allowed.</li>
